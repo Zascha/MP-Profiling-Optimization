@@ -1,0 +1,17 @@
+MP.ProfilingOptimization.Common/bin/
+MP.ProfilingOptimization.Common/obj/
+MP.ProfilingOptimization.Task1/bin/
+MP.ProfilingOptimization.Task1/obj/
+MP.ProfilingOptimization.Task2/bin/
+MP.ProfilingOptimization.Task2/obj/
+MP.ProfilingOptimization.Task3/.vs/
+MP.ProfilingOptimization.Task3/GameOfLife/bin/
+MP.ProfilingOptimization.Task3/GameOfLife/obj/
+MP.ProfilingOptimization.Task4/MP.ProfilingOptimization.Task4/.vs/
+MP.ProfilingOptimization.Task4/MP.ProfilingOptimization.Task4/bin/
+MP.ProfilingOptimization.Task4/MP.ProfilingOptimization.Task4/obj/
+MP.ProfilingOptimization.Tests/bin/
+MP.ProfilingOptimization.Tests/obj/
+packages/
+MP.ProfilingOptimization.Task4/MyCalculator.dmp
+MP.ProfilingOptimization.Task2/App_Data/sample.bak
